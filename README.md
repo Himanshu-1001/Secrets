@@ -1,6 +1,6 @@
 # Secrets App
 
-### Tech Stack : Google-OAUTH, Passport, Node.js, Express.js, MongoDB 
+### Tech Stack : Google-OAUTH, Passport.js, Node.js, Express.js, MongoDB 
 
 - Developed a Backend app using Express and Passport to allow users to submit secrets and see the secrets of users without knowing identity.
   
